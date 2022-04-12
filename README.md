@@ -86,7 +86,7 @@ To join, you should first sign up for one of the two **QuPath: Past, Present & F
 There you can select that you want to join the hackathon as well.
 If you do, you'll be emailed more details later.
 
-You can then head over to [**Discussions**](https://github.com/petebankhead/2022-qupath-hackathon/discussions/1) to write a bit about what you want to achieve.
+You can then head over to [**Discussions**](https://github.com/qupath/2022-qupath-hackathon/discussions) to write a bit about what you want to achieve.
 
 > **Important!** Numbers on image.sc island are limited, so please do write a few sentences describing why you want to participate.
 > I hope everyone who wants to will be able to join - but in case it's badly oversubscribed, preference will be given to applicants planning to develop new scripts/extensions that will be open-source and useful to the wider community.
@@ -104,7 +104,7 @@ However, because space on the island is limited, please don't sign up unless you
 
 ## How do I find out more?
 
-You can find more information on [**Discussions**](https://github.com/petebankhead/2022-qupath-hackathon/discussions/1).
+You can find more information on [**Discussions**](https://github.com/qupath/2022-qupath-hackathon/discussions).
 
 If you want to contact me directly, you can find me on image.sc at https://forum.image.sc/u/petebankhead/
 
