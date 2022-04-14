@@ -60,8 +60,9 @@ For example, this could be:
 * Address some specific annoyance in the software
 * Streamline analysis in a complex script
 * Import/export data in a new way
+* Create scripts of general interest, e.g. to validate classifiers
 
-If you have strong coding skills but no specific project of your own, you could also join to contribute to the work of others.
+If you have strong coding skills but no specific project of your own, you're also very welcome to join and support the work of others.
 
 
 ## Do I need to know Java or Groovy?
@@ -79,18 +80,20 @@ Thanks to [@jni](https://github.com/jni), we'll be using **image.sc Island Gathe
 
 It's the same space as has been used for other events by projects affiliated with the [**Scientific Community Image Forum** at image.sc](https://forum.image.sc).
 
-To join, you should first sign up for one of the two **QuPath: Past, Present & Future** webinars on 25 April 2022:
-* XXLink to be addedXX
-* XXLink to be addedXX
+**To join, you should first sign up for one of the webinars on 25 April 2022:**
 
-There you can select that you want to join the hackathon as well.
+* [**QuPath: Past, Present & Future** - 08:00 UTC (09:00 BST / 10:00 CET)](https://teams.microsoft.com/registration/sAafLmkWiUWHiRCgaTTcYQ,lCxQUFpGhUiXcIjHVa19KQ,Z21v_XIo00i6f-BkeurL6w,9tkg65MNAUe9pACAAtMMdw,-monpQEEnUOqvAkQAYk2-A,NUAJljwkG0mt0fhTEhMlcA?mode=read&tenantId=2e9f06b0-1669-4589-8789-10a06934dc61)
+* [**QuPath: Past, Present & Future** - 17:00 UTC (18:00 BST / 19:00 CET)](https://teams.microsoft.com/registration/sAafLmkWiUWHiRCgaTTcYQ,lCxQUFpGhUiXcIjHVa19KQ,Z21v_XIo00i6f-BkeurL6w,C7YORnzI7UGXc_lkMD3UEA,8Z1TcKu-BUW2SD8shP1JFw,7gOmQInma0Ki9TtuHF5Vhg?mode=read&tenantId=2e9f06b0-1669-4589-8789-10a06934dc61)
+
+There you can **select the option that you want to participate in the hackathon** as well.
 If you do, you'll be emailed more details later.
 
 You can then head over to [**Discussions**](https://github.com/qupath/2022-qupath-hackathon/discussions) to write a bit about what you want to achieve.
 
 > **Important!** Numbers on image.sc island are limited, so please do write a few sentences describing why you want to participate.
-> I hope everyone who wants to will be able to join - but in case it's badly oversubscribed, preference will be given to applicants planning to develop new scripts/extensions that will be open-source and useful to the wider community.
-
+> 
+> I hope everyone who wants to will be able to join - but in case it's badly oversubscribed, preference will be given to applicants who plan to develop new scripts/extensions that will be open-source and useful to the wider community.
+> Everyone should at least demonstrate at least some knowledge of programming, since the hackathon won't be concerned with general use of the software.
 
 ## What if I can't join for the whole thing?
 
@@ -99,12 +102,14 @@ You can then head over to [**Discussions**](https://github.com/qupath/2022-qupat
 Four days is a lot.
 Timezones and other commitments will make things tricky.
 
-However, because space on the island is limited, please don't sign up unless you *really* plan to join for at least a day or two.
+However, because space on the island is limited, please don't sign up unless you *really* plan to join for a substantial amount of time (e.g. a day or two, or equivalent number of hours).
+
+Depending upon how it goes, there might be more hackathons and image.sc island events in the future.
 
 
 ## How do I find out more?
 
-You can find more information on [**Discussions**](https://github.com/qupath/2022-qupath-hackathon/discussions).
+You can find a bit more information and ask questions on [**Discussions**](https://github.com/qupath/2022-qupath-hackathon/discussions).
 
 If you want to contact me directly, you can find me on image.sc at https://forum.image.sc/u/petebankhead/
 
